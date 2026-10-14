@@ -101,9 +101,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     DSPVolumeSynchronizer
 
-# DolbyAtmos
+# Dolby app (crDroid LunarisDolby)
 PRODUCT_PACKAGES += \
-    DolbyAtmos
+    LunarisDolby
 
 # Dolby Proprietary blobs
 PRODUCT_COPY_FILES += \
